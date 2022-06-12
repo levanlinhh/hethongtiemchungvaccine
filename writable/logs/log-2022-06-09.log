@@ -1,0 +1,99 @@
+ERROR - 2022-06-09 00:11:47 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:11:47 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:14:42 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:14:42 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:14:44 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:14:44 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:15:17 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:15:17 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:15:19 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:15:19 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:15:30 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:15:30 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:16:13 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:16:13 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:17:33 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:17:33 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:17:49 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:17:49 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:17:52 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:17:52 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+ERROR - 2022-06-09 00:18:46 --> Table 'vaccine.address' doesn't exist
+CRITICAL - 2022-06-09 00:18:46 --> Call to a member function getResultArray() on bool
+#0 C:\xampp\htdocs\vaccine\vaccine\app\Controllers\Vaccine.php(71): App\Models\VaccineModel->getList()
+#1 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Vaccine->list()
+#2 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vaccine))
+#3 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\vaccine\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\vaccine\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#6 {main}

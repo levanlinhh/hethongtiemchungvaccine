@@ -1,0 +1,15 @@
+ERROR - 2022-06-11 07:30:04 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-06-11 07:30:04 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+#0 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\vaccine\app\Models\HomeModel.php(52): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\vaccine\app\Controllers\Home.php(173): App\Models\HomeModel->Login('admin1', 'e10adc3949ba59a...')
+#4 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(833): App\Controllers\Home->Login_API()
+#5 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(420): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\CodeIgniter.php(327): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\vaccine\public\index.php(40): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\vaccine\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
